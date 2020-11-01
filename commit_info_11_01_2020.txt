@@ -1,0 +1,33 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+git push --force --all
+Enumerating objects: 120, done.
+Counting objects: 100% (120/120), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (108/108), done.
+Writing objects: 100% (120/120), 30.88 MiB | 514.00 KiB/s, done.
+Total 120 (delta 51), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (51/51), done.
+To https://github.com/InkCurity/website
+ + 423eb62...cf337bb master -> master (forced update)
+
+all commits were signed before, but had to be overridden due to an important change regarding all commits.
+
+
+-----BEGIN PGP SIGNATURE-----
+
+wsFcBAEBCAAQBQJfnqxWCRCTfVUzsR4tvwAAHyoQAAjDJna14QR+kzgAv61lWvn7
+IOTvCg2cWoblYGuC9rxWiVn5IcdH/xUjnPE8xMTCVOm4pXvrod0npfF6z+997I7R
+/Y/k3Wjw0oYUVNEDawriy2EKX1CBH2Pqopu2grNz7HEvVsvGTsgtjyI1R831NEHR
+0mlYk1o+dl/MBO+7VRHtZa2JTHsy0JTf4/DQ7qyuqBRhEFO1pMnwkhoKjN07KEvo
+EZXLSqioX2FRJXYtSEs7JGyZZmFleLwaDgDD76Uo68vwv0bq9LR9/IxmZDRcUFJX
+QHp9GOm+KuXHe9aAt6Lbs30s4e/CFTLUItuRjAWGRTgJU9gA9EOtJYansr7XcPu7
+sNUrEygKOwUN/NBaAJiQY3kNORF3dGY9TmyERrnRbsLHJXnxVw2IPO9qefISzfXS
+mPuhcMR7UOZSIgGE3Dq2tqxWI3+Jaj7nMHfdwz/QCgk0o3QKU2XHohlRnu5TQqhL
+7q6BsN8QazxlX6/tvqdXWAGjooxEiuTo3vNHIct15vP0mgvVjfYvmofcIjl1uy/H
+Jidlok2KuakOVf7WCBN2etZxfm3c/LtVwt4MHM/zRnY04MUuwEMrF9rEw+ZBFLWg
+sqrel1gNPsY/Cbyq9n1OOk0WeKpTJxytBmFMBDSdQmQiPn2045U5vE9UDqJBD95T
+tqPvWpzb81TP46thyAEs
+=W9n6
+-----END PGP SIGNATURE-----
